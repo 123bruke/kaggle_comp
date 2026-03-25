@@ -35,5 +35,3 @@ It includes data preprocessing, feature engineering, model training, and predict
   - seaborn (optional)
 
 ---
-
-## 📁 Project Structure
